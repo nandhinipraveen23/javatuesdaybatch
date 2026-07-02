@@ -1,0 +1,35 @@
+String username="ganga";
+String password="1234";
+T1:
+Enter the username
+ganga
+Enter the password
+1234
+o/p
+home screen
+
+T2:
+Enter the username
+gangaa
+Enter the password
+1234
+o/p
+username is incorrect
+
+T3:
+
+Enter the username
+ganga
+Enter the password
+12341
+o/p
+password is wrong
+
+
+T4:
+Enter the username
+ganga3
+Enter the password
+12343
+o/p
+both are worng

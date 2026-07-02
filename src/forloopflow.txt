@@ -1,0 +1,18 @@
+1. take the initial value
+2. check the condition
+   (if the condition is true go to 3rd line /
+ if the condition is false
+ come out from the for loop)
+3. execute the statements
+4. after executed the statement
+do inc/dec
+
+5. go to step 2
+==========================
+i=1 i<=3      i=2 i<=3  i=3 i<=3  i=4 i<=3
+    1<=3T         2<=3T     3<=3T     4<=3F
+ganga bhavani
+ganga bhavani
+ganga bhavani
+4
+imoutside
